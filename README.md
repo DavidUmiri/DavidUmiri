@@ -44,7 +44,7 @@
 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse)&nbsp;
-![NetBeans](https://img.shields.io/badge/-NetBeans-05122A?style=flat&logo=apache&logoColor=blue)&nbsp;
+<!-- ![NetBeans](https://img.shields.io/badge/-NetBeans-05122A?style=flat&logo=apache&logoColor=blue)&nbsp; -->
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ![WordPress](https://img.shields.io/badge/-WordPress-05122A?style=flat&logo=wordpress)&nbsp;
