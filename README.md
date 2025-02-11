@@ -4,7 +4,7 @@
 </p>
 
 ### ⚙️ &nbsp;GitHub Analytics
-<!--
+
 <p align="center">
 <a href="https://github.com/DavidUmiri">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DavidUmiri&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -12,7 +12,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DavidUmiri&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 </p>
--->
+
 
 <!--- stats (start) -->
 <table align="center" border="none">
