@@ -4,15 +4,19 @@
 </p>
 
 ### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/DavidUmiri">
+<table align="center" border="none">
+<tr border="none">
+<td width="50%" align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DavidUmiri&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DavidUmiri&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
-</a>
-</p>
-
+  <br></br>
+  <!--<img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="David streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DavidUmiri&theme=algolia&hide_border=true" /> -->
+</td>
+<td width="50%" align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DavidUmiri&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/> 
+  </td>
+</tr>
+</table>
 
 <!--- stats (start) -->
 <table align="center" border="none">
